@@ -1,1 +1,10 @@
-"# Class-10-Image-Insert-with-Full-System-Management" 
+# Class 10 - Image INSERT and Develop a Full Dynamic System Using RAW Code 
+
+## Features are - 
+
+* REGISTRATION
+* LOGIN
+* LOGIN AUTHENTICATION
+* DASHBOARD INTRIGRATION
+* FRONT END
+* IMAGE UPLOAD AND DELETE
